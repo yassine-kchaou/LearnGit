@@ -1,3 +1,2 @@
 # LearnGit
-LearningGit
-### Test preparation ###
+## Test preparation ###
